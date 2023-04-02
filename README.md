@@ -7,5 +7,5 @@ Concept:
 - https://www.youtube.com/watch?v=aQkPcPqTq4M
 
 Brainstorm:
-- onclick icon that plays some instruments of some sort
+- onclick icon plays instruments 
 
