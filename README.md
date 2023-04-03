@@ -9,11 +9,12 @@ Concept:
 
 Brainstorm:
 - when you enter the website, its a computer(https://www.pinterest.ca/pin/444167582017062449/) from afar & you gotta zoom into it to see the icons
-- onclick icon plays instruments 
+- Intro to webpage is a computer static screen & you press enter to start page
+- music box window plays music -> https://poolsuite.net/
 
 
 
-Inspo <3:
+Inspo:
 - https://kimmiki.love/
 - https://poolsuite.net/
 - https://www.awwwards.com/sites/deso
